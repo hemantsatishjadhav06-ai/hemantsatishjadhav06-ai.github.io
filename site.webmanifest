@@ -1,0 +1,14 @@
+{
+  "name": "Neopolis Infra — Landlord Share Flats in Hyderabad",
+  "short_name": "Neopolis Infra",
+  "description": "Landlord-share flats in West Hyderabad, direct from the landowner, typically 8-14% below resale.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#081d4a",
+  "theme_color": "#081d4a",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "assets/img/logo.png", "sizes": "1100x1100", "type": "image/png", "purpose": "any" }
+  ]
+}

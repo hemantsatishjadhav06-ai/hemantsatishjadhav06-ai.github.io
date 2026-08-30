@@ -1,0 +1,15 @@
+{
+  "name": "neopolis-infra",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Marketing website for Neopolis Infra — landlord-share specialists in West Hyderabad. Single-file app (HTML/CSS/JS) with hash routing.",
+  "homepage": "https://www.neopolisinfra.com",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000",
+    "build": "python3 tools/build.py"
+  },
+  "keywords": ["real-estate","hyderabad","landlord-share","static-site","neopolis"],
+  "author": "Neopolis Group",
+  "license": "UNLICENSED"
+}
